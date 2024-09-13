@@ -1,0 +1,52 @@
+#l1{
+    border: 3px solid pink;
+}
+#l2{
+    border: 3px solid lightblue;
+}
+#secondno{
+    background-color: lightblue;
+    color: black;
+}
+#firstno{
+    background-color: pink;
+    color: black;
+}
+#button1,#button2{
+    background-color: rgb(245, 245, 173);
+    color:black;
+    width: 150px;
+    height: 150px;
+    font-size: 60px;
+    margin-right: 150px;
+}
+body{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+p{
+    color: black;
+    background-color: aqua;
+    font-size: 50px;
+}
+#button3,#button4{
+    background-color: rgb(245, 245, 173);
+    color:black;
+    width: 150px;
+    height: 150px;
+    font-size: 60px;
+    margin-right: 150px;
+    margin-top: 20px;
+}
+#button5{
+    background-color: rgb(236, 74, 74);
+    color:black;
+    width: 160px;
+    height: 150px;
+    font-size: 60px;
+    margin-right: 150px;
+    border-radius: 50%;
+    border: 3px solid yellow;
+}
+
+
